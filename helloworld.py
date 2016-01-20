@@ -4,3 +4,4 @@ print('Hello World!')
 def myFun():
   print('함수를 추가한 후 Github 살펴보기.')
   
+myFun()
